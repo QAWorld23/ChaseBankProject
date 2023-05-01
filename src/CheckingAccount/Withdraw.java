@@ -14,6 +14,7 @@ public class Withdraw {
 			double Res = beforebal - withdraw;
 			System.out.println("You withdraw " + withdraw);
 			System.out.println("Your Remain Balance is " + Res);
+			System.out.println("Thank you for banking with Chase");
 		}
 	}
 }

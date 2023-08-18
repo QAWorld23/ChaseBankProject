@@ -1,6 +1,6 @@
 package CheckingAccount;
 
-public class Login {
+public class New {
 
 	public static void main(String[] args) {
 
@@ -28,5 +28,4 @@ public class Login {
 	}
 
 
-	}
-
+}
